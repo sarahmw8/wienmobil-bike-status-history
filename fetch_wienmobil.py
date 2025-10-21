@@ -36,26 +36,13 @@ def main():
     for station_id, status in status_by_id.items():
         info = info_by_id.get(station_id, {})
         rec = {
-            "ts": ts,
+            "timestamp": ts,
             "station_id": station_id,
-            # --- from station_information (location & metadata) ---
             "name": info.get("name"),
             "lat": info.get("lat"),
             "lon": info.get("lon"),
-            "address": info.get("address"),
-            "post_code": info.get("post_code"),
-            "city": info.get("city"),
-            # some feeds include capacity or region info:
-            "capacity": info.get("capacity"),
-            "region_id": info.get("region_id"),
-            # --- from station_status (live status) ---
             "num_bikes_available": status.get("num_bikes_available"),
             "num_docks_available": status.get("num_docks_available"),
-            "is_renting": status.get("is_renting"),
-            "is_returning": status.get("is_returning"),
-            "is_installed": status.get("is_installed"),
-            # Some feeds expose further fields; keep them safely if present:
-            "last_reported": status.get("last_reported"),
         }
         joined_records.append(rec)
 

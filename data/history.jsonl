@@ -7305,3 +7305,264 @@
 {"timestamp": "2025-10-30T22:35:41+00:00", "station_id": "517349665", "name": "Vetmed UB", "lat": 48.253112, "lon": 16.430644, "num_bikes_available": 5, "num_docks_available": 0}
 {"timestamp": "2025-10-30T22:35:41+00:00", "station_id": "521340519", "name": "Rebhanngasse / Nordbahnstrasse", "lat": 48.227231, "lon": 16.388737, "num_bikes_available": 16, "num_docks_available": 4}
 {"timestamp": "2025-10-30T22:35:41+00:00", "station_id": "569993947", "name": "Nordbahnstrasse", "lat": 48.224594, "lon": 16.389338, "num_bikes_available": 20, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68577704", "name": "Julius-Raab-Platz", "lat": 48.211544, "lon": 16.382374, "num_bikes_available": 24, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68577989", "name": "Hoher Markt", "lat": 48.210666, "lon": 16.372983, "num_bikes_available": 28, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68578292", "name": "Oper", "lat": 48.202683, "lon": 16.369702, "num_bikes_available": 24, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68578979", "name": "Volksgarten", "lat": 48.206516, "lon": 16.3604, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68579304", "name": "Stephansplatz U", "lat": 48.207836, "lon": 16.372111, "num_bikes_available": 12, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68579972", "name": "Taborstraße U", "lat": 48.219522, "lon": 16.382218, "num_bikes_available": 9, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68580182", "name": "WU-Campus / Südportalstraße ", "lat": 48.212856, "lon": 16.407665, "num_bikes_available": 33, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68580553", "name": "Radetzkyplatz", "lat": 48.210682, "lon": 16.390221, "num_bikes_available": 15, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68580955", "name": "Erdberg U", "lat": 48.190465, "lon": 16.415318, "num_bikes_available": 16, "num_docks_available": 20}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68581183", "name": "Media Quarter Marx", "lat": 48.188763, "lon": 16.404503, "num_bikes_available": 7, "num_docks_available": 17}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68582032", "name": "Rennweg S", "lat": 48.194261, "lon": 16.386578, "num_bikes_available": 22, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68582393", "name": "Rochusmarkt", "lat": 48.203416, "lon": 16.389789, "num_bikes_available": 20, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68582598", "name": "Schwarzenbergplatz", "lat": 48.198852, "lon": 16.376962, "num_bikes_available": 8, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68582758", "name": "Heumühlgasse", "lat": 48.195304, "lon": 16.363308, "num_bikes_available": 18, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68583064", "name": "Margaretengürtel U", "lat": 48.188489, "lon": 16.343992, "num_bikes_available": 12, "num_docks_available": 18}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68583190", "name": "Mittersteig", "lat": 48.189735, "lon": 16.361331, "num_bikes_available": 16, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68583368", "name": "Ceija-Stojka-Platz", "lat": 48.207702, "lon": 16.342199, "num_bikes_available": 0, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68583487", "name": "Volkstheater U", "lat": 48.205994, "lon": 16.356442, "num_bikes_available": 6, "num_docks_available": 12}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68583665", "name": "Zieglergasse U", "lat": 48.196724, "lon": 16.343985, "num_bikes_available": 11, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68583873", "name": "Oskar-Morgenstern-Platz", "lat": 48.219182, "lon": 16.366349, "num_bikes_available": 71, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68584195", "name": "Frankhplatz", "lat": 48.215164, "lon": 16.355172, "num_bikes_available": 15, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68584504", "name": "Friedensbrücke U", "lat": 48.226825, "lon": 16.365311, "num_bikes_available": 23, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68584898", "name": "Spittelau S U", "lat": 48.235289, "lon": 16.35875, "num_bikes_available": 1, "num_docks_available": 17}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68585081", "name": "Absbergbrücke ", "lat": 48.167276, "lon": 16.386339, "num_bikes_available": 8, "num_docks_available": 16}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68586340", "name": "Altes Landgut U", "lat": 48.160985, "lon": 16.383653, "num_bikes_available": 28, "num_docks_available": 2}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68586628", "name": "Bloch-Bauer-Promenade", "lat": 48.179521, "lon": 16.385926, "num_bikes_available": 7, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68586882", "name": "Hauptbahnhof S U ", "lat": 48.186287, "lon": 16.375631, "num_bikes_available": 26, "num_docks_available": 25}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68587431", "name": "Keplerplatz U", "lat": 48.179192, "lon": 16.375793, "num_bikes_available": 18, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68587603", "name": "Puchsbaumgasse", "lat": 48.172123, "lon": 16.389296, "num_bikes_available": 12, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68587889", "name": "Enkplatz U", "lat": 48.17625, "lon": 16.41326, "num_bikes_available": 13, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68588081", "name": "Gasometer U", "lat": 48.185253, "lon": 16.417358, "num_bikes_available": 6, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68588324", "name": "Geiselbergstraße S", "lat": 48.174951, "lon": 16.406785, "num_bikes_available": 22, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68588588", "name": "Simmering S U", "lat": 48.169601, "lon": 16.420754, "num_bikes_available": 13, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68588759", "name": "Niederhofstraße U", "lat": 48.180233, "lon": 16.330812, "num_bikes_available": 16, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68589011", "name": "Hietzing U", "lat": 48.187845, "lon": 16.302445, "num_bikes_available": 40, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68589226", "name": "Westbahnhof S U", "lat": 48.19681, "lon": 16.338577, "num_bikes_available": 15, "num_docks_available": 25}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68589424", "name": "Richard-Wagner-Platz", "lat": 48.210054, "lon": 16.328049, "num_bikes_available": 14, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68589618", "name": "Alser Straße U", "lat": 48.216588, "lon": 16.3416, "num_bikes_available": 7, "num_docks_available": 14}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68589785", "name": "Währinger Straße U", "lat": 48.225482, "lon": 16.349795, "num_bikes_available": 23, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68590091", "name": "Hardtgasse", "lat": 48.236591, "lon": 16.348719, "num_bikes_available": 5, "num_docks_available": 20}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68590324", "name": "Handelskai S U", "lat": 48.24201, "lon": 16.384797, "num_bikes_available": 30, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68590453", "name": "Wallensteinplatz", "lat": 48.229911, "lon": 16.371579, "num_bikes_available": 53, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68590734", "name": "Brünner Straße S", "lat": 48.267376, "lon": 16.403725, "num_bikes_available": 12, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68590949", "name": "Floridsdorf S U", "lat": 48.255621, "lon": 16.400137, "num_bikes_available": 5, "num_docks_available": 23}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68591140", "name": "Großfeldsiedlung U", "lat": 48.271948, "lon": 16.447562, "num_bikes_available": 5, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68591336", "name": "Siemensstraße S", "lat": 48.27113, "lon": 16.42081, "num_bikes_available": 5, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68592270", "name": "Aspernstraße U", "lat": 48.223008, "lon": 16.475255, "num_bikes_available": 4, "num_docks_available": 19}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68592591", "name": "Donauspital U", "lat": 48.219878, "lon": 16.464588, "num_bikes_available": 7, "num_docks_available": 15}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68593797", "name": "Erzherzog-Karl-Straße S", "lat": 48.229619, "lon": 16.45357, "num_bikes_available": 18, "num_docks_available": 2}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68594003", "name": "Hausfeldstraße S U", "lat": 48.233624, "lon": 16.486825, "num_bikes_available": 18, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68594176", "name": "Kagran U", "lat": 48.243746, "lon": 16.433508, "num_bikes_available": 5, "num_docks_available": 27}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68594313", "name": "Maria-Tusch-Straße", "lat": 48.224719, "lon": 16.498557, "num_bikes_available": 22, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68594670", "name": "Rennbahnweg U", "lat": 48.257535, "lon": 16.44959, "num_bikes_available": 5, "num_docks_available": 14}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68594877", "name": "Schüttauplatz", "lat": 48.225856, "lon": 16.423761, "num_bikes_available": 26, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68595050", "name": "Stadlau U", "lat": 48.21978, "lon": 16.44922, "num_bikes_available": 8, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68595226", "name": "VIC Kaisermühlen U", "lat": 48.232362, "lon": 16.415692, "num_bikes_available": 2, "num_docks_available": 18}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68595381", "name": "Kagraner Platz U", "lat": 48.251071, "lon": 16.443794, "num_bikes_available": 3, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "68595540", "name": "Alterlaa U", "lat": 48.150204, "lon": 16.317214, "num_bikes_available": 19, "num_docks_available": 2}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71501335", "name": "Bacherplatz", "lat": 48.188009, "lon": 16.355089, "num_bikes_available": 4, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71502675", "name": "Carl-Appel-Straße", "lat": 48.169012, "lon": 16.343611, "num_bikes_available": 10, "num_docks_available": 8}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71502970", "name": "Otto-Probst-Platz", "lat": 48.154212, "lon": 16.348729, "num_bikes_available": 10, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71504091", "name": "Alaudagasse U", "lat": 48.15271, "lon": 16.38247, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71504398", "name": "Svetelskystraße", "lat": 48.154248, "lon": 16.465893, "num_bikes_available": 10, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71504628", "name": "Weißenböckstraße", "lat": 48.162067, "lon": 16.42849, "num_bikes_available": 17, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71506305", "name": "Zentralfriedhof 2. Tor", "lat": 48.154665, "lon": 16.442269, "num_bikes_available": 21, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71506495", "name": "Simoningplatz", "lat": 48.179097, "lon": 16.420704, "num_bikes_available": 17, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71506714", "name": "Etrichstraße", "lat": 48.148286, "lon": 16.462449, "num_bikes_available": 11, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71507082", "name": "Zippererstraße U", "lat": 48.17915, "lon": 16.411219, "num_bikes_available": 8, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71507263", "name": "Hetzendorf S", "lat": 48.167527, "lon": 16.316119, "num_bikes_available": 9, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71508860", "name": "Gatterhölzl", "lat": 48.175409, "lon": 16.320534, "num_bikes_available": 4, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71510056", "name": "Speising S", "lat": 48.17377, "lon": 16.282425, "num_bikes_available": 10, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71511715", "name": "Hasnerstraße / Hofferplatz", "lat": 48.208195, "lon": 16.332566, "num_bikes_available": 6, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71511892", "name": "Nietzscheplatz", "lat": 48.220453, "lon": 16.306123, "num_bikes_available": 9, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71512025", "name": "Wattgasse", "lat": 48.217837, "lon": 16.319961, "num_bikes_available": 12, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71512384", "name": "Grinzing", "lat": 48.255793, "lon": 16.342947, "num_bikes_available": 7, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71512698", "name": "Oberdöbling S", "lat": 48.244386, "lon": 16.344711, "num_bikes_available": 9, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71513155", "name": "Kantnergasse", "lat": 48.277738, "lon": 16.410474, "num_bikes_available": 19, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71513386", "name": "Leopoldau S U", "lat": 48.276824, "lon": 16.45017, "num_bikes_available": 0, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71513576", "name": "Josef-Baumann-Gasse", "lat": 48.25227, "lon": 16.430805, "num_bikes_available": 8, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71513732", "name": "Fultonstraße", "lat": 48.252916, "lon": 16.413875, "num_bikes_available": 27, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71513842", "name": "Hopfengasse", "lat": 48.269651, "lon": 16.392036, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71513967", "name": "Jedlesee / Bellgasse", "lat": 48.262909, "lon": 16.386918, "num_bikes_available": 6, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71514129", "name": "Jedleseer Friedhof", "lat": 48.270076, "lon": 16.384403, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71514234", "name": "Strebersdorf / Edmund-Hawranek-Platz", "lat": 48.291474, "lon": 16.386194, "num_bikes_available": 13, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71514394", "name": "Kagraner Anger", "lat": 48.239166, "lon": 16.448733, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71514663", "name": "Stavangergasse", "lat": 48.213317, "lon": 16.474986, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71514791", "name": "Hans-Steger-Gasse", "lat": 48.224465, "lon": 16.456828, "num_bikes_available": 13, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71514929", "name": "Hirschstetten S", "lat": 48.232992, "lon": 16.470367, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71515384", "name": "Atzgersdorf S", "lat": 48.147137, "lon": 16.28842, "num_bikes_available": 2, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "71515681", "name": "Siebenhirten U", "lat": 48.129845, "lon": 16.310018, "num_bikes_available": 4, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "84043210", "name": "Erlaaer Straße U", "lat": 48.142919, "lon": 16.316576, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "84043446", "name": "Perfektastraße U", "lat": 48.136491, "lon": 16.313367, "num_bikes_available": 2, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "84044298", "name": "Praterstern Ausstellungsstraße", "lat": 48.21785, "lon": 16.395483, "num_bikes_available": 28, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "86734914", "name": "Muthgasse", "lat": 48.252055, "lon": 16.369822, "num_bikes_available": 18, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "87590679", "name": "Liesing S", "lat": 48.134253, "lon": 16.283428, "num_bikes_available": 19, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "94505684", "name": "Aspern Nord S U", "lat": 48.235615, "lon": 16.503965, "num_bikes_available": 0, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "94506147", "name": "Seepark", "lat": 48.226593, "lon": 16.504396, "num_bikes_available": 6, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "94506325", "name": "Seestadt U", "lat": 48.224865, "lon": 16.507619, "num_bikes_available": 2, "num_docks_available": 15}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "102158706", "name": "Schwedenplatz", "lat": 48.211721, "lon": 16.376628, "num_bikes_available": 33, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "102178715", "name": "Waldmüllerpark", "lat": 48.18136, "lon": 16.367618, "num_bikes_available": 7, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103301435", "name": "Stubentor U", "lat": 48.206812, "lon": 16.380441, "num_bikes_available": 16, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103316881", "name": "Landstraße - Wien Mitte S U", "lat": 48.205847, "lon": 16.385246, "num_bikes_available": 38, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103317151", "name": "Praterstern S U", "lat": 48.218454, "lon": 16.390281, "num_bikes_available": 45, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103317402", "name": "Rustengasse", "lat": 48.190832, "lon": 16.326461, "num_bikes_available": 19, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103317675", "name": "Heiligenstadt S U", "lat": 48.248272, "lon": 16.36813, "num_bikes_available": 21, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103318155", "name": "Hütteldorf  S U", "lat": 48.198076, "lon": 16.261813, "num_bikes_available": 26, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103318491", "name": "Rathaus U", "lat": 48.211441, "lon": 16.356586, "num_bikes_available": 44, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103318689", "name": "Hans-Mandl-Berufsschule", "lat": 48.181161, "lon": 16.338769, "num_bikes_available": 14, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103319213", "name": "Dänenstraße / BOKU", "lat": 48.23737, "lon": 16.33448, "num_bikes_available": 5, "num_docks_available": 45}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103319515", "name": "Schloss Schönbrunn", "lat": 48.187201, "lon": 16.312659, "num_bikes_available": 29, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103319780", "name": "Eslarngasse / Juchgasse", "lat": 48.196678, "lon": 16.395204, "num_bikes_available": 10, "num_docks_available": 12}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103320049", "name": "Plößlgasse / Belvedere", "lat": 48.194578, "lon": 16.377147, "num_bikes_available": 15, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103320289", "name": "Sankt-Elisabeth-Platz", "lat": 48.190903, "lon": 16.375826, "num_bikes_available": 17, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103320500", "name": "Laudongasse / Schönbornpark", "lat": 48.21339, "lon": 16.350695, "num_bikes_available": 16, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103320795", "name": "Rossauer Lände U", "lat": 48.222729, "lon": 16.367425, "num_bikes_available": 24, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103321191", "name": "Lazarettgasse", "lat": 48.219312, "lon": 16.352461, "num_bikes_available": 20, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "103587074", "name": "Edelsinnstraße", "lat": 48.170578, "lon": 16.310926, "num_bikes_available": 3, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "105011519", "name": "Karlsplatz U / TU Wien", "lat": 48.199877, "lon": 16.368227, "num_bikes_available": 28, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "105539739", "name": "Amerlingstraße", "lat": 48.197306, "lon": 16.350981, "num_bikes_available": 7, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "106776330", "name": "Albertgasse", "lat": 48.210475, "lon": 16.343998, "num_bikes_available": 7, "num_docks_available": 21}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "107176004", "name": "Universitätsring", "lat": 48.21192, "lon": 16.360781, "num_bikes_available": 39, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "107176172", "name": "Herrengasse U", "lat": 48.209724, "lon": 16.366685, "num_bikes_available": 22, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "107177260", "name": "Sensengasse", "lat": 48.220335, "lon": 16.35638, "num_bikes_available": 35, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "108294385", "name": "Belgradplatz", "lat": 48.174228, "lon": 16.361368, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "108328961", "name": "Rathausplatz / Burgtheater", "lat": 48.209524, "lon": 16.360021, "num_bikes_available": 29, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "108329236", "name": "Arbeitergasse - Gürtel", "lat": 48.18392, "lon": 16.345801, "num_bikes_available": 22, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "108330011", "name": "Bauernfeldplatz / Palais Lichtenstein", "lat": 48.221085, "lon": 16.360193, "num_bikes_available": 21, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "108330262", "name": "Johannesgasse / Stadtpark", "lat": 48.203384, "lon": 16.376708, "num_bikes_available": 31, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "108575312", "name": "Bischof-Faber-Platz", "lat": 48.233868, "lon": 16.325099, "num_bikes_available": 1, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110075845", "name": "Am Schöpfwerk U", "lat": 48.160951, "lon": 16.324922, "num_bikes_available": 23, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110076109", "name": "Alserbachstraße", "lat": 48.225138, "lon": 16.354893, "num_bikes_available": 32, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110076578", "name": "Petrusgasse", "lat": 48.192988, "lon": 16.398459, "num_bikes_available": 22, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110076854", "name": "Wassergasse", "lat": 48.199234, "lon": 16.394335, "num_bikes_available": 9, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110077149", "name": "Löwengasse", "lat": 48.2057, "lon": 16.395998, "num_bikes_available": 21, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110077394", "name": "Kardinal-Nagl-Platz U", "lat": 48.197069, "lon": 16.400874, "num_bikes_available": 21, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110420108", "name": "Kärntner Ring", "lat": 48.202161, "lon": 16.3713, "num_bikes_available": 8, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "110474164", "name": "Schottenring U", "lat": 48.215972, "lon": 16.372194, "num_bikes_available": 28, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "111035034", "name": "Strozzigasse", "lat": 48.207744, "lon": 16.349122, "num_bikes_available": 1, "num_docks_available": 20}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "112096063", "name": "Yppengasse", "lat": 48.214561, "lon": 16.335624, "num_bikes_available": 15, "num_docks_available": 8}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "112972587", "name": "Stefan-Fadinger-Platz", "lat": 48.168439, "lon": 16.354862, "num_bikes_available": 5, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "112972732", "name": "Brünnlbadgasse", "lat": 48.215262, "lon": 16.346523, "num_bikes_available": 6, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113851857", "name": "Obere Augartenstraße", "lat": 48.223, "lon": 16.374752, "num_bikes_available": 4, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113852160", "name": "Gußhausstraße / Argentinierstraße", "lat": 48.197287, "lon": 16.371572, "num_bikes_available": 9, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113852535", "name": "Marschallplatz", "lat": 48.165635, "lon": 16.303146, "num_bikes_available": 7, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113852718", "name": "Ober St. Veit U", "lat": 48.192296, "lon": 16.274813, "num_bikes_available": 18, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113852877", "name": "Auf der Schmelz", "lat": 48.203673, "lon": 16.316414, "num_bikes_available": 1, "num_docks_available": 19}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113853038", "name": "Grimmgasse", "lat": 48.186805, "lon": 16.327679, "num_bikes_available": 17, "num_docks_available": 2}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "113853202", "name": "Parhamerplatz", "lat": 48.216137, "lon": 16.328093, "num_bikes_available": 2, "num_docks_available": 26}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114191041", "name": "Kendlerstraße U", "lat": 48.205571, "lon": 16.30959, "num_bikes_available": 9, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114192844", "name": "Dornerplatz", "lat": 48.221223, "lon": 16.33459, "num_bikes_available": 1, "num_docks_available": 24}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114193118", "name": "Hernals S", "lat": 48.22321, "lon": 16.315256, "num_bikes_available": 7, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114193703", "name": "Schmelzbrücke", "lat": 48.19623, "lon": 16.330241, "num_bikes_available": 14, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114194532", "name": "Michelbeuern-AKH U", "lat": 48.221804, "lon": 16.343735, "num_bikes_available": 15, "num_docks_available": 20}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114194796", "name": "Johann-Nepomuk-Vogl-Platz", "lat": 48.223756, "lon": 16.337543, "num_bikes_available": 3, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114195490", "name": "Mayerhofgasse", "lat": 48.192488, "lon": 16.367014, "num_bikes_available": 6, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "114195856", "name": "Westbahnstraße / Schottenfeldgasse", "lat": 48.201942, "lon": 16.343241, "num_bikes_available": 11, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "115734327", "name": "Vorgartenstraße U", "lat": 48.223192, "lon": 16.399795, "num_bikes_available": 17, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "115734503", "name": "Krieau U", "lat": 48.214384, "lon": 16.414663, "num_bikes_available": 7, "num_docks_available": 21}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "115734657", "name": "Ottakring S U", "lat": 48.211841, "lon": 16.311806, "num_bikes_available": 26, "num_docks_available": 12}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "115735030", "name": "Hartmanngasse ", "lat": 48.187123, "lon": 16.363965, "num_bikes_available": 10, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "115737941", "name": "Nestroyplatz U", "lat": 48.215566, "lon": 16.386328, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "116474003", "name": "Messe-Prater U", "lat": 48.217295, "lon": 16.406163, "num_bikes_available": 39, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117147572", "name": "Loquaiplatz", "lat": 48.194597, "lon": 16.349121, "num_bikes_available": 17, "num_docks_available": 2}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117147809", "name": "Rosensteingasse", "lat": 48.21955, "lon": 16.326586, "num_bikes_available": 5, "num_docks_available": 16}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117148042", "name": "Gumpendorfer Gürtel", "lat": 48.18934, "lon": 16.338321, "num_bikes_available": 33, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117148276", "name": "Burggasse-Stadthalle U", "lat": 48.203657, "lon": 16.337419, "num_bikes_available": 15, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117148509", "name": "Urban-Loritz-Platz", "lat": 48.201034, "lon": 16.337727, "num_bikes_available": 6, "num_docks_available": 15}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117148697", "name": "Hanusch Krankenhaus", "lat": 48.19853, "lon": 16.29393, "num_bikes_available": 7, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117149012", "name": "Westbahnhof S U / Gerstnerstraße", "lat": 48.195315, "lon": 16.337344, "num_bikes_available": 25, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117149230", "name": "Wieningerplatz", "lat": 48.194063, "lon": 16.31846, "num_bikes_available": 7, "num_docks_available": 15}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117329509", "name": "Markgraf-Rüdiger Straße", "lat": 48.202473, "lon": 16.329897, "num_bikes_available": 17, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117329675", "name": "Plunkergasse", "lat": 48.199892, "lon": 16.327151, "num_bikes_available": 11, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117329809", "name": "Selzergasse", "lat": 48.196802, "lon": 16.323095, "num_bikes_available": 13, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117329972", "name": "Westbahnhof S U / Felberstraße", "lat": 48.197958, "lon": 16.3377, "num_bikes_available": 10, "num_docks_available": 28}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117632826", "name": "Kundratstraße", "lat": 48.176146, "lon": 16.355224, "num_bikes_available": 11, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117633648", "name": "Arthaberplatz", "lat": 48.173447, "lon": 16.371831, "num_bikes_available": 14, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117753032", "name": "Karmeliterplatz", "lat": 48.215683, "lon": 16.379649, "num_bikes_available": 27, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117753367", "name": "Fröbelgasse", "lat": 48.205827, "lon": 16.330869, "num_bikes_available": 20, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117753498", "name": "Reumannplatz U", "lat": 48.172937, "lon": 16.378663, "num_bikes_available": 13, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117753757", "name": "Brestelgasse", "lat": 48.214001, "lon": 16.330753, "num_bikes_available": 2, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "117753925", "name": "Thaliastraße U", "lat": 48.207995, "lon": 16.337984, "num_bikes_available": 14, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119161164", "name": "Nussdorfer Straße U", "lat": 48.231717, "lon": 16.353124, "num_bikes_available": 0, "num_docks_available": 16}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119161712", "name": "Elterleinplatz", "lat": 48.217936, "lon": 16.332271, "num_bikes_available": 3, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119161997", "name": "Canisiusgasse", "lat": 48.229011, "lon": 16.354359, "num_bikes_available": 3, "num_docks_available": 19}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119163086", "name": "Meidling S U / Schedifkaplatz", "lat": 48.172862, "lon": 16.332105, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119164521", "name": "Palffygasse", "lat": 48.217217, "lon": 16.337131, "num_bikes_available": 9, "num_docks_available": 16}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119164831", "name": "Gersthof S", "lat": 48.231029, "lon": 16.329505, "num_bikes_available": 10, "num_docks_available": 14}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119165095", "name": "Reinprechtsdorfer Brücke", "lat": 48.189633, "lon": 16.351143, "num_bikes_available": 8, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119165301", "name": "Siebensterngasse", "lat": 48.202223, "lon": 16.352486, "num_bikes_available": 13, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119165695", "name": "Siebenbrunnenplatz", "lat": 48.184975, "lon": 16.352986, "num_bikes_available": 1, "num_docks_available": 18}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119166015", "name": "Rosensteingasse / Blumengasse", "lat": 48.222824, "lon": 16.328474, "num_bikes_available": 15, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119166984", "name": "Schottenring U /Herminengasse", "lat": 48.217784, "lon": 16.373083, "num_bikes_available": 30, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119199656", "name": "Josefstädter Straße U", "lat": 48.212106, "lon": 16.33912, "num_bikes_available": 6, "num_docks_available": 16}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119467705", "name": "Friedrich-Engels-Platz", "lat": 48.244111, "lon": 16.379304, "num_bikes_available": 9, "num_docks_available": 16}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119468010", "name": "Dresdner Straße U", "lat": 48.237487, "lon": 16.380363, "num_bikes_available": 17, "num_docks_available": 8}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119471185", "name": "Jägerstraße U", "lat": 48.235062, "lon": 16.369919, "num_bikes_available": 13, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "119471390", "name": "Traisengasse S", "lat": 48.233821, "lon": 16.383263, "num_bikes_available": 12, "num_docks_available": 10}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120664252", "name": "Kettenbrückengasse U / Naschmarkt", "lat": 48.196328, "lon": 16.357468, "num_bikes_available": 14, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120665264", "name": "Aumannplatz", "lat": 48.228561, "lon": 16.335125, "num_bikes_available": 5, "num_docks_available": 17}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120665659", "name": "Längenfeldgasse U", "lat": 48.18424, "lon": 16.333886, "num_bikes_available": 15, "num_docks_available": 9}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120666295", "name": "Althanstraße", "lat": 48.228936, "lon": 16.3596, "num_bikes_available": 19, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120666475", "name": "Schottentor U", "lat": 48.214558, "lon": 16.361492, "num_bikes_available": 59, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120666709", "name": "Neubaugasse U", "lat": 48.198527, "lon": 16.35093, "num_bikes_available": 6, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120666888", "name": "Museumsquartier U", "lat": 48.202344, "lon": 16.361117, "num_bikes_available": 26, "num_docks_available": 7}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120667066", "name": "Johnstrasse U", "lat": 48.19834, "lon": 16.318975, "num_bikes_available": 8, "num_docks_available": 14}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "120667255", "name": "Turnergasse", "lat": 48.193052, "lon": 16.334208, "num_bikes_available": 4, "num_docks_available": 13}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "136959192", "name": "Kutschkergasse", "lat": 48.225707, "lon": 16.344196, "num_bikes_available": 5, "num_docks_available": 11}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "140182214", "name": "Stadion U", "lat": 48.210893, "lon": 16.420795, "num_bikes_available": 20, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "141457598", "name": "Brückengasse", "lat": 48.19126, "lon": 16.347918, "num_bikes_available": 14, "num_docks_available": 8}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "167316120", "name": "Schuhmeierplatz", "lat": 48.21069, "lon": 16.318802, "num_bikes_available": 30, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "167316710", "name": "Schönbrunn U", "lat": 48.185845, "lon": 16.319898, "num_bikes_available": 10, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "179031019", "name": "Hermesstraße / Oscar-Straus-Park ", "lat": 48.167976, "lon": 16.282246, "num_bikes_available": 22, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "189949517", "name": "Modecenterstraße / The Marks", "lat": 48.184348, "lon": 16.413837, "num_bikes_available": 16, "num_docks_available": 1}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "189949978", "name": "Am Langen Felde", "lat": 48.250336, "lon": 16.450206, "num_bikes_available": 5, "num_docks_available": 5}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "227576666", "name": "eLastenräder- Modecenterstraße / The Marks", "lat": 48.184929, "lon": 16.413964, "num_bikes_available": 3, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "233846163", "name": "Pilgramgasse U", "lat": 48.192945, "lon": 16.354936, "num_bikes_available": 10, "num_docks_available": 4}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "282041231", "name": "eLastenräder - Am langen Felde", "lat": 48.250224, "lon": 16.45065, "num_bikes_available": 2, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "282777229", "name": "eLastenräder - Bruno-Marek-Allee", "lat": 48.227914, "lon": 16.391516, "num_bikes_available": 7, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "282777705", "name": "eLastenräder - Am Tabor", "lat": 48.224598, "lon": 16.39209, "num_bikes_available": 1, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314316648", "name": "Purkytgasse ", "lat": 48.15011, "lon": 16.33364, "num_bikes_available": 16, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314317046", "name": "Neue Donau U", "lat": 48.246414, "lon": 16.395676, "num_bikes_available": 29, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314317548", "name": "Franz-Josef Bahnhof S", "lat": 48.225991, "lon": 16.360327, "num_bikes_available": 26, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314318676", "name": "Niederpointenstraße", "lat": 48.20326, "lon": 16.275366, "num_bikes_available": 13, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314319510", "name": "Leopoldauer Platz", "lat": 48.263377, "lon": 16.440686, "num_bikes_available": 12, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314319618", "name": "ArbeiterInnenstrand", "lat": 48.242946, "lon": 16.414669, "num_bikes_available": 22, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314319771", "name": "Gewerbepark Stadlau", "lat": 48.245575, "lon": 16.462515, "num_bikes_available": 8, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314319930", "name": "Atzgersdorf Bildungscampus", "lat": 48.153174, "lon": 16.301623, "num_bikes_available": 6, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314320002", "name": "Adelheid-Popp-Gasse", "lat": 48.230723, "lon": 16.46149, "num_bikes_available": 8, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314320082", "name": "Alte Donau U", "lat": 48.237534, "lon": 16.423788, "num_bikes_available": 13, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "314320171", "name": "VHS Kulturgarage", "lat": 48.231445, "lon": 16.51109, "num_bikes_available": 6, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "315515024", "name": "Siebenbrunnenfeldgasse", "lat": 48.18142, "lon": 16.352644, "num_bikes_available": 4, "num_docks_available": 8}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382198275", "name": "Technisches Museum", "lat": 48.190316, "lon": 16.317929, "num_bikes_available": 25, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382208440", "name": "Währinger Park", "lat": 48.232184, "lon": 16.346819, "num_bikes_available": 9, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382209200", "name": "Ettenreichgasse / Schulzentrum ", "lat": 48.16717, "lon": 16.37359, "num_bikes_available": 7, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382209656", "name": "Wendstattgasse", "lat": 48.14679, "lon": 16.391242, "num_bikes_available": 20, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382209822", "name": "Neilreichgasse", "lat": 48.176253, "lon": 16.366421, "num_bikes_available": 10, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382868179", "name": "Gutheil-Schoder-Gasse / Badner Bahn", "lat": 48.158662, "lon": 16.334796, "num_bikes_available": 5, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382868302", "name": "Neu Leopoldau", "lat": 48.273397, "lon": 16.426352, "num_bikes_available": 9, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382868398", "name": "Strebersdorf S", "lat": 48.286421, "lon": 16.381676, "num_bikes_available": 16, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382868474", "name": "Rodlergasse", "lat": 48.240775, "lon": 16.332898, "num_bikes_available": 2, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "382868775", "name": "Nussbaumallee", "lat": 48.181554, "lon": 16.42316, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "391402716", "name": "Raxstraße", "lat": 48.163234, "lon": 16.366437, "num_bikes_available": 3, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "391402906", "name": "Wattmanngasse", "lat": 48.171677, "lon": 16.291818, "num_bikes_available": 16, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "391403113", "name": "Joachimsthaler Platz", "lat": 48.208885, "lon": 16.303775, "num_bikes_available": 7, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "391403257", "name": "Floridsdorfer Markt", "lat": 48.263052, "lon": 16.399257, "num_bikes_available": 17, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "391403425", "name": "Nussdorf S", "lat": 48.259495, "lon": 16.367553, "num_bikes_available": 14, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "469857109", "name": "Bertha-von-Suttner-Gasse", "lat": 48.251355, "lon": 16.45281, "num_bikes_available": 19, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "484600160", "name": "Hauptbahnhof Ost", "lat": 48.183836, "lon": 16.379774, "num_bikes_available": 11, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "485064275", "name": "FH Technikum", "lat": 48.23937, "lon": 16.377182, "num_bikes_available": 19, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "493435055", "name": "Hafen Wien", "lat": 48.183217, "lon": 16.458423, "num_bikes_available": 15, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "494974455", "name": "Hundertwasserhaus", "lat": 48.207691, "lon": 16.394724, "num_bikes_available": 9, "num_docks_available": 3}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "494974574", "name": "Seestadt U - Lina-Bo-Bardi-Platz", "lat": 48.227143, "lon": 16.508852, "num_bikes_available": 8, "num_docks_available": 12}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "494974639", "name": "Barbara-Prammer-Allee", "lat": 48.229561, "lon": 16.510147, "num_bikes_available": 3, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "494974704", "name": "Sonnenallee", "lat": 48.224888, "lon": 16.502422, "num_bikes_available": 5, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "495021824", "name": "AIT Austrian Institute of Technology / Giefinggasse ", "lat": 48.268033, "lon": 16.426886, "num_bikes_available": 3, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "502274432", "name": "Hannovermarkt (20)", "lat": 48.23103, "lon": 16.368755, "num_bikes_available": 11, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "517349484", "name": "Blériotgasse", "lat": 48.171395, "lon": 16.42565, "num_bikes_available": 14, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "517349595", "name": "Vetmed Haupteingang", "lat": 48.25442, "lon": 16.431427, "num_bikes_available": 9, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "517349665", "name": "Vetmed UB", "lat": 48.253112, "lon": 16.430644, "num_bikes_available": 5, "num_docks_available": 0}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "521340519", "name": "Rebhanngasse / Nordbahnstrasse", "lat": 48.227231, "lon": 16.388737, "num_bikes_available": 14, "num_docks_available": 6}
+{"timestamp": "2025-10-31T03:36:18+00:00", "station_id": "569993947", "name": "Nordbahnstrasse", "lat": 48.224594, "lon": 16.389338, "num_bikes_available": 21, "num_docks_available": 0}

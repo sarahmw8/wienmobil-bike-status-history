@@ -1,9 +1,9 @@
 name: Fetch WienMobil bike data
 
-# on:
-#  schedule:
-#    - cron: "0 */2 * * *"   # Runs every 2 hours (UTC)
-#  workflow_dispatch:          # Allows manual run from GitHub Actions tab
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # Runs every 2 hours (UTC)
+  workflow_dispatch:          # Allows manual run from GitHub Actions tab
 
 permissions:
   contents: write
